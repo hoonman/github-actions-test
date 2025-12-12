@@ -2,7 +2,7 @@ name: Supabase STG Deploy
 on:
   push:
     branches:
-      - staging
+      - main
 
 jobs:
   deploy:
